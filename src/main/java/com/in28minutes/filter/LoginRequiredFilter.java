@@ -37,4 +37,9 @@ public class LoginRequiredFilter implements Filter {
 	public void init(FilterConfig arg0) throws ServletException {
 	}
 
+
+	public int add(int number1, int number2)  {
+		return number1+number2;
+	}
+
 }

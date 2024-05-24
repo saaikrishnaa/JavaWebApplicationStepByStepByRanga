@@ -16,4 +16,8 @@ public class LogoutServlet extends HttpServlet {
 		request.getRequestDispatcher("/WEB-INF/views/login.jsp").forward(
 				request, response);
 	}
+
+	public int add(int number1, int number2)  {
+		return number1+number2;
+	}
 }

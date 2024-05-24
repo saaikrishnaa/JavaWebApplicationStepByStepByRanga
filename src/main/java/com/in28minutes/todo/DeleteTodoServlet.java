@@ -19,4 +19,8 @@ public class DeleteTodoServlet extends HttpServlet {
 				.getParameter("category")));
 		response.sendRedirect("/list-todos.do");
 	}
+
+	public int add(int number1, int number2)  {
+		return number1+number2;
+	}
 }
