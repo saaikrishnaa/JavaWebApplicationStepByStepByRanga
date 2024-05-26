@@ -9,4 +9,11 @@ public class LoginService {
 		return true;
 	}
 
+	public boolean isUserValid(String user, String password, String another) {
+		if (user.equals("in28Minutes") && password.equals("dummy"))
+			return true;
+
+		return true;
+	}
+
 }
