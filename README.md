@@ -15,18 +15,6 @@ https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-J
 - For help : user our installation guide - https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
 
 ### File wise Contents
-- Step01.md :   Up and running with a web app in Tomcat
-- Step02.md :	First JSP
-- Step03.md :	Adding a GET Parameter name
-- Step04.md :	Adding another Get Parameter Password
-- Step05.md :   Lets add a form
-- Step06.md :	New Form and doPost
-- Step07.md :	Adding Password, validation of userid/password
-- Step08.md :	Adding a TodoService and Todos to welcome.jsp
-- Step09.md :	Bit of Refactoring - Packages	9 days ago
-- Step10.md : Redirect from One Servlet to another - New TodoServlet.
-- Step11.md	: First JSTL Tag : Using a Loop around todos	
-- Step12    : Difference between Session and Request Scopes
 - Step13.md	: Add a New Todo
 - Step14.md	: Delete Todo with equals and hashcode methods
 - Step15.md	: Adding webjars for jquery and bootstrap
