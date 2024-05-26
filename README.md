@@ -42,6 +42,36 @@ https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-J
 - Step25.md   : Add Category Field
 - Step26(Code file missing)    : Format the jsps better. Refer Next Step for code.
 - Step27.md   : Jsp Fragments
+- - Step01.md :   Up and running with a web app in Tomcat
+- Step02.md :	First JSP
+- Step03.md :	Adding a GET Parameter name
+- Step04.md :	Adding another Get Parameter Password
+- Step05.md :   Lets add a form
+- Step06.md :	New Form and doPost
+- Step07.md :	Adding Password, validation of userid/password
+- Step08.md :	Adding a TodoService and Todos to welcome.jsp
+- Step09.md :	Bit of Refactoring - Packages	9 days ago
+- Step10.md : Redirect from One Servlet to another - New TodoServlet.
+- Step01.md :   Up and running with a web app in Tomcat
+- Step02.md :	First JSP
+- Step03.md :	Adding a GET Parameter name
+- Step04.md :	Adding another Get Parameter Password
+- Step05.md :   Lets add a form
+- Step06.md :	New Form and doPost
+- Step07.md :	Adding Password, validation of userid/password
+- Step08.md :	Adding a TodoService and Todos to welcome.jsp
+- Step09.md :	Bit of Refactoring - Packages	9 days ago
+- Step10.md : Redirect from One Servlet to another - New TodoServlet.
+- Step01.md :   Up and running with a web app in Tomcat
+- Step02.md :	First JSP
+- Step03.md :	Adding a GET Parameter name
+- Step04.md :	Adding another Get Parameter Password
+- Step05.md :   Lets add a form
+- Step06.md :	New Form and doPost
+- Step07.md :	Adding Password, validation of userid/password
+- Step08.md :	Adding a TodoService and Todos to welcome.jsp
+- Step09.md :	Bit of Refactoring - Packages	9 days ago
+- Step10.md : Redirect from One Servlet to another - New TodoServlet.
 
 ### Troubleshooting
 - Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
