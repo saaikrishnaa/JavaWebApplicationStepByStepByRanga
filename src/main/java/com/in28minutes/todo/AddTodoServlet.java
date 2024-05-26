@@ -34,5 +34,6 @@ public class AddTodoServlet extends HttpServlet {
 		String category = request.getParameter("category");
 		todoService.addTodo(new Todo(newTodo, category));
 		response.sendRedirect("/list-todos.do");
+		System.out.println("Some change");
 	}
 }

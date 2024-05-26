@@ -21,6 +21,9 @@ public class TodoService {
 
 	public void deleteTodo(Todo todo) {
 		todos.remove(todo);
+		System.out.println("Some change");
 	}
+
+
 
 }

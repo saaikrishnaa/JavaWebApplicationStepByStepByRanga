@@ -18,5 +18,6 @@ public class ListTodoServlet extends HttpServlet {
 		request.setAttribute("todos", todoService.retrieveTodos());
 		request.getRequestDispatcher("/WEB-INF/views/list-todos.jsp").forward(
 				request, response);
+		System.out.println("Some change");
 	}
 }
